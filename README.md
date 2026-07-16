@@ -44,7 +44,7 @@ sandhya = {
         "web":         ["HTML", "CSS", "JS (for dashboards)"],
     },
     "experience": "Data Analyst Intern @ Vorkmint Staffing LLP",
-    "education":  "B.E. Computer Science Engineering, Chandigarh University (2026) — CGPA 8.28",
+    "education":  "B.E. Computer Science Engineering, Chandigarh University (2026) — CGPA 7.73",
     "focus":      ["Attrition & churn analysis", "Risk scoring", "Business insight dashboards"],
     "open_to":    "Full-time Analyst roles at large MNCs",
 }
@@ -61,7 +61,7 @@ sandhya = {
 
 <div align="center">
 
-[![Telecom Churn](https://github-readme-stats.vercel.app/api/pin/?username=sandhyabharti14&repo=customer-churn-analysis&theme=algolia&border_color=6ee7b7&title_color=6ee7b7&icon_color=6ee7b7&text_color=a7f3d0&bg_color=0d1117)](https://github.com/sandhyabharti14/customer-churn-analysis)
+[![Telecom Churn](https://github.com/sandhyabharti14/customer-churn-analysis/raw/main/dashboard-preview.png)](https://github.com/sandhyabharti14/customer-churn-analysis)
 
 </div>
 
@@ -80,7 +80,7 @@ sandhya = {
 
 <div align="center">
 
-[![HR Attrition](https://github-readme-stats.vercel.app/api/pin/?username=sandhyabharti14&repo=hr-attrition-analysis&theme=algolia&border_color=6ee7b7&title_color=6ee7b7&icon_color=6ee7b7&text_color=a7f3d0&bg_color=0d1117)](https://github.com/sandhyabharti14/hr-attrition-analysis)
+[![HR Attrition](https://github.com/sandhyabharti14/hr-attrition-analysis/raw/main/dashboard%28preview%29.png)](https://github.com/sandhyabharti14/hr-attrition-analysis)
 
 </div>
 
@@ -133,30 +133,6 @@ sandhya = {
 <p>
   <img src="https://img.shields.io/badge/Business_Analytics-Coursework%20Certified-6ee7b7?style=for-the-badge&labelColor=0a2e2a" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandhyabharti14&show_icons=true&theme=algolia&border_color=6ee7b7&title_color=6ee7b7&icon_color=6ee7b7&text_color=a7f3d0&bg_color=0d1117&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyabharti14&layout=compact&theme=algolia&border_color=6ee7b7&title_color=6ee7b7&text_color=a7f3d0&bg_color=0d1117&hide_border=false&langs_count=8" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sandhyabharti14&theme=algolia&background=0d1117&border=6ee7b7&ring=6ee7b7&fire=34d399&currStreakLabel=6ee7b7&sideLabels=6ee7b7&dates=6b9ab8&currStreakNum=a7f3d0&sideNums=a7f3d0" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandhyabharti14&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
 
 ---
 
